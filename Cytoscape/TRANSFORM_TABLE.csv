@@ -1,0 +1,200 @@
+moduleColors,name,selected,shared name,SIGNOR::Cell_type,SIGNOR::DATABASE,SIGNOR::ENTITY,SIGNOR::ID,SIGNOR::TYPE,Cell
+,C3 convertase complex,FALSE,C3 convertase complex,,SIGNOR,C3 convertase complex,SIGNOR-C310,complex,complex
+,Complement C1 complex,FALSE,Complement C1 complex,,SIGNOR,Complement C1 complex,SIGNOR-C309,complex,complex
+,C5 convertase complex,FALSE,C5 convertase complex,,SIGNOR,C5 convertase complex,SIGNOR-C312,complex,complex
+,C3 convertase complex (C3bBb),FALSE,C3 convertase complex (C3bBb),,SIGNOR,C3 convertase complex (C3bBb),SIGNOR-C314,complex,complex
+,C5 convertase complex (C3bBbC3b),FALSE,C5 convertase complex (C3bBbC3b),,SIGNOR,C5 convertase complex (C3bBbC3b),SIGNOR-C315,complex,complex
+,SNARE_complex,FALSE,SNARE_complex,,SIGNOR,SNARE_complex,SIGNOR-C346,complex,complex
+,NMDA receptor_2A,FALSE,NMDA receptor_2A,,SIGNOR,NMDA receptor_2A,SIGNOR-C347,complex,complex
+,NMDA receptor_2B,FALSE,NMDA receptor_2B,,SIGNOR,NMDA receptor_2B,SIGNOR-C348,complex,complex
+,Neuronal AP-3,FALSE,Neuronal AP-3,,SIGNOR,Neuronal AP-3,SIGNOR-C445,complex,complex
+,ETF,FALSE,ETF,,SIGNOR,ETF,SIGNOR-C463,complex,complex
+,mTORC2,FALSE,mTORC2,,SIGNOR,mTORC2,SIGNOR-C2,complex,complex
+,PI3K,FALSE,PI3K,,SIGNOR,PI3K,SIGNOR-C156,complex,complex
+,A2/b1 integrin,FALSE,A2/b1 integrin,,SIGNOR,A2/b1 integrin,SIGNOR-C160,complex,complex
+,A6/b1 integrin,FALSE,A6/b1 integrin,,SIGNOR,A6/b1 integrin,SIGNOR-C164,complex,complex
+,A6/b4 integrin,FALSE,A6/b4 integrin,,SIGNOR,A6/b4 integrin,SIGNOR-C174,complex,complex
+,A8/b1 integrin,FALSE,A8/b1 integrin,,SIGNOR,A8/b1 integrin,SIGNOR-C165,complex,complex
+,A9/b1 integrin,FALSE,A9/b1 integrin,,SIGNOR,A9/b1 integrin,SIGNOR-C166,complex,complex
+,NfKb-p65/p50,FALSE,NfKb-p65/p50,,SIGNOR,NfKb-p65/p50,SIGNOR-C13,complex,complex
+,GNB/GNG,FALSE,GNB/GNG,,SIGNOR,GNB/GNG,SIGNOR-C202,complex,complex
+,MAPK12/CARM1,FALSE,MAPK12/CARM1,,SIGNOR,MAPK12/CARM1,SIGNOR-C218,complex,complex
+,DGC,FALSE,DGC,,SIGNOR,DGC,SIGNOR-C217,complex,complex
+,Av/b3 integrin,FALSE,Av/b3 integrin,,SIGNOR,Av/b3 integrin,SIGNOR-C177,complex,complex
+,Endocytosis,FALSE,Endocytosis,,SIGNOR,Endocytosis,SIGNOR-PH123,phenotype,phenotype
+,Exocytosis,FALSE,Exocytosis,,SIGNOR,Exocytosis,SIGNOR-PH157,phenotype,phenotype
+,Organelle_transport,FALSE,Organelle_transport,,SIGNOR,Organelle_transport,SIGNOR-PH159,phenotype,phenotype
+,Synaptic_vesicle_exocytosis,FALSE,Synaptic_vesicle_exocytosis,,SIGNOR,Synaptic_vesicle_exocytosis,SIGNOR-PH160,phenotype,phenotype
+,Synaptic_vesicle_recycling,FALSE,Synaptic_vesicle_recycling,,SIGNOR,Synaptic_vesicle_recycling,SIGNOR-PH161,phenotype,phenotype
+,Apoptosis,FALSE,Apoptosis,,SIGNOR,Apoptosis,SIGNOR-PH2,phenotype,phenotype
+,Dense-core_vesicle_exocytosis,FALSE,Dense-core_vesicle_exocytosis,,SIGNOR,Dense-core_vesicle_exocytosis,SIGNOR-PH184,phenotype,phenotype
+,Microtubule_polimerization,FALSE,Microtubule_polimerization,,SIGNOR,Microtubule_polimerization,SIGNOR-PH106,phenotype,phenotype
+,Proliferation,FALSE,Proliferation,,SIGNOR,Proliferation,SIGNOR-PH159,phenotype,phenotype
+,Differentiation,FALSE,Differentiation,,SIGNOR,Differentiation,SIGNOR-PH159,phenotype,phenotype
+,Neurite_outgrowth,FALSE,Neurite_outgrowth,,SIGNOR,Neurite_outgrowth,SIGNOR-PH134,phenotype,phenotype
+,Neurogenesis,FALSE,Neurogenesis,,SIGNOR,Neurogenesis,SIGNOR-PH168,phenotype,phenotype
+,Actin_cytoskeleton_reorganization,FALSE,Actin_cytoskeleton_reorganization,,SIGNOR,Actin_cytoskeleton_reorganization,SIGNOR-PH84,phenotype,phenotype
+,Translational_elongation,FALSE,Translational_elongation,,SIGNOR,Translational_elongation,SIGNOR-PH210,phenotype,phenotype
+,Plus-end directed sliding movement,FALSE,Plus-end directed sliding movement,,SIGNOR,Plus-end directed sliding movement,SIGNOR-PH216,phenotype,phenotype
+,Adipogenesis,FALSE,Adipogenesis,,SIGNOR,Adipogenesis,SIGNOR-PH26,phenotype,phenotype
+,Membrane_blebbing,FALSE,Membrane_blebbing,,SIGNOR,Membrane_blebbing,SIGNOR-PH24,phenotype,phenotype
+,Vascular_Permeability,FALSE,Vascular_Permeability,,SIGNOR,Vascular_Permeability,SIGNOR-PH140,phenotype,phenotype
+,Chemotaxis,FALSE,Chemotaxis,,SIGNOR,Chemotaxis,SIGNOR-PH93,phenotype,phenotype
+,Inflammation,FALSE,Inflammation,,SIGNOR,Inflammation,SIGNOR-PH12,phenotype,phenotype
+,Neurofilament bundle assembly,FALSE,Neurofilament bundle assembly,,SIGNOR,Neurofilament bundle assembly,SIGNOR-PH72,phenotype,phenotype
+,Axonal_growth_cone_formation,FALSE,Axonal_growth_cone_formation,,SIGNOR,Axonal_growth_cone_formation,SIGNOR-PH199,phenotype,phenotype
+,Angiogenesis,FALSE,Angiogenesis,,SIGNOR,Angiogenesis,SIGNOR-PH46,phenotype,phenotype
+,Neural_tissue_regeneration,FALSE,Neural_tissue_regeneration,,SIGNOR,Neural_tissue_regeneration,SIGNOR-PH68,phenotype,phenotype
+,Excitatory_synaptic_transmission,FALSE,Excitatory_synaptic_transmission,,SIGNOR,Excitatory_synaptic_transmission,SIGNOR-PH133,phenotype,phenotype
+,Lewy_body_formation,FALSE,Lewy_body_formation,,SIGNOR,Lewy_body_formation,SIGNOR-PH56,phenotype,phenotype
+,Fibrosis,FALSE,Fibrosis,,SIGNOR,Fibrosis,SIGNOR-PH90,phenotype,phenotype
+,Fatty_acid_oxidation,FALSE,Fatty_acid_oxidation,,SIGNOR,Fatty_acid_oxidation,SIGNOR-PH129,phenotype,phenotype
+turquoise,C4A,FALSE,C4A,Astrocyte_Mitochondrial,UNIPROT,C4A,P0C0L4,protein,Astrocyte
+,C3AR1,FALSE,C3AR1,,UNIPROT,C3AR1,Q16581,protein,
+black,VAMP2,FALSE,VAMP2,Neuron_Microtubule,UNIPROT,VAMP2,P63027,protein,Neuron
+black,SYT1,FALSE,SYT1,Neuron_Microtubule,UNIPROT,SYT1,P21579,protein,Neuron
+black,APBA1,FALSE,APBA1,Neuron_Microtubule,UNIPROT,APBA1,Q02410,protein,Neuron
+,NRXN1,FALSE,NRXN1,,UNIPROT,NRXN1,Q9ULB1,protein,
+black,NTNG2,FALSE,NTNG2,Neuron_Microtubule,UNIPROT,NTNG2,Q96CW9,protein,Neuron
+,LRRC4,FALSE,LRRC4,,UNIPROT,LRRC4,Q9HBW1,protein,
+pink,SYP,FALSE,SYP,Neuron_cation,UNIPROT,SYP,P08247,protein,Neuron
+black,SNAP91,FALSE,SNAP91,Neuron_Microtubule,UNIPROT,SNAP91,O60641,protein,Neuron
+turquoise,STON2,FALSE,STON2,Astrocyte_Mitochondrial,UNIPROT,STON2,Q8WXE9,protein,Astrocyte
+pink,SV2A,FALSE,SV2A,Neuron_cation,UNIPROT,SV2A,Q7L0J3,protein,Neuron
+turquoise,CD38,FALSE,CD38,Astrocyte_Mitochondrial,UNIPROT,CD38,P28907,protein,Astrocyte
+black,CADPS,FALSE,CADPS,Neuron_Microtubule,UNIPROT,CADPS,Q9ULU8,protein,Neuron
+black,RAB3C,FALSE,RAB3C,Neuron_Microtubule,UNIPROT,RAB3C,Q96E17,protein,Neuron
+turquoise,FABP5,FALSE,FABP5,Astrocyte_Mitochondrial,UNIPROT,FABP5,Q01469,protein,Astrocyte
+black,GPRIN1,FALSE,GPRIN1,Neuron_Microtubule,UNIPROT,GPRIN1,Q7Z2K8,protein,Neuron
+turquoise,CAV1,FALSE,CAV1,,UNIPROT,CAV1,Q03135,protein,
+turquoise,SLC1A2,FALSE,SLC1A2,Astrocyte_Mitochondrial,UNIPROT,SLC1A2,P43004,protein,Astrocyte
+,CSMD1,FALSE,CSMD1,,UNIPROT,CSMD1,Q96PZ7,protein,
+,LRP2,FALSE,LRP2,,UNIPROT,LRP2,P98164,protein,
+,NFE2L2,FALSE,NFE2L2,,UNIPROT,NFE2L2,Q14494,protein,
+black,BAG3,FALSE,BAG3,Astro_Microtubule,,BAG3,,protein,Astro
+,SMAD5,FALSE,SMAD5,,,SMAD5,,protein,
+black,MADD,FALSE,MADD,Neuron_Microtubule,UNIPROT,MADD,Q8WXG6,protein,Neuron
+black,DMXL2,FALSE,DMXL2,Neuron_Microtubule,UNIPROT,DMXL2,Q8TDJ6,protein,Neuron
+turquoise,GFAP,FALSE,GFAP,Astrocyte_Mitochondrial,UNIPROT,GFAP,P14136,protein,Astrocyte
+,NBEA,FALSE,NBEA,,UNIPROT,NBEA,Q8NFP9,protein,
+black,DLG3,FALSE,DLG3,Neuron_Microtubule,UNIPROT,DLG3,Q92796,protein,Neuron
+,SRC,FALSE,SRC,,UNIPROT,SRC,P12931,protein,
+turquoise,DAG1,FALSE,DAG1,Astrocyte_Mitochondrial,UNIPROT,DAG1,Q14118,protein,Astrocyte
+turquoise,ALPL,FALSE,ALPL,Astrocyte_Mitochondrial,UNIPROT,ALPL,P05186,protein,Astrocyte
+turquoise,PDGFRB,FALSE,PDGFRB,Astrocyte_Mitochondrial,UNIPROT,PDGFRB,P09619,protein,Astrocyte
+turquoise,IMMT,FALSE,IMMT,Astrocyte_Mitochondrial,UNIPROT,IMMT,Q16891,protein,Astrocyte
+turquoise,CD44,FALSE,CD44,Astrocyte_Mitochondrial,UNIPROT,CD44,P16070,protein,Astrocyte
+black,EPHB2,FALSE,EPHB2,Neuron_Microtubule,UNIPROT,EPHB2,P29323,protein,Neuron
+black,SNCA,FALSE,SNCA,Neuron_Microtubule,UNIPROT,SNCA,P37840,protein,Neuron
+black,PPP3CB,FALSE,PPP3CB,Neuron_Microtubule,UNIPROT,PPP3CB,P16298,protein,Neuron
+black,STX1A,FALSE,STX1A,Neuron_Microtubule,UNIPROT,STX1A,Q16623,protein,Neuron
+black,PRKCG,FALSE,PRKCG,Neuron_Microtubule,UNIPROT,PRKCG,P05129,protein,Neuron
+,NUMA1,FALSE,NUMA1,,UNIPROT,NUMA1,Q14980,protein,
+black,AP3B2,FALSE,AP3B2,Neuron_Microtubule,UNIPROT,AP3B2,Q13367,protein,Neuron
+black,TUBB2A,FALSE,TUBB2A,Neuron_Microtubule,UNIPROT,TUBB2A,Q13885,protein,Neuron
+black,TUBB3,FALSE,TUBB3,Neuron_Microtubule,UNIPROT,TUBB3,Q13509,protein,Neuron
+black,PRKCE,FALSE,PRKCE,Neuron_Microtubule,UNIPROT,PRKCE,Q02156,protein,Neuron
+black,STMN1,FALSE,STMN1,Neuron_Microtubule,UNIPROT,STMN1,P16949,protein,Neuron
+green,PRKCA,FALSE,PRKCA,,UNIPROT,PRKCA,P17252,protein,
+turquoise,GJA1,FALSE,GJA1,Astrocyte_Mitochondrial,UNIPROT,GJA1,P17302,protein,Astrocyte
+black,CCDC6,FALSE,CCDC6,Neuron_Microtubule,UNIPROT,CCDC6,Q16204,protein,Neuron
+black,SYN3,FALSE,SYN3,Neuron_Microtubule,UNIPROT,SYN3,O14994,protein,Neuron
+turquoise,ETFA,FALSE,ETFA,Astrocyte_Mitochondrial,UNIPROT,ETFA,P13804,protein,Astrocyte
+grey,MAPK3,FALSE,MAPK3,,UNIPROT,MAPK3,P27361,protein,
+black,MARK1,FALSE,MARK1,Neuron_Microtubule,UNIPROT,MARK1,Q9P0L2,protein,Neuron
+,PRKACA,FALSE,PRKACA,,UNIPROT,PRKACA,P17612,protein,
+black,PRKAR2B,FALSE,PRKAR2B,Neuron_Microtubule,UNIPROT,PRKAR2B,P31323,protein,Neuron
+turquoise,CPE,FALSE,CPE,Astrocyte_Mitochondrial,UNIPROT,CPE,P16870,protein,Astrocyte
+,Oxytocin,FALSE,Oxytocin,,UNIPROT,Oxytocin,P01178-PRO_0000020495,protein,
+black,DNM1,FALSE,DNM1,Neuron_Microtubule,UNIPROT,DNM1,Q05193,protein,Neuron
+black,NSF,FALSE,NSF,Neuron_Microtubule,UNIPROT,NSF,P46459,protein,Neuron
+,CHAT,FALSE,CHAT,,UNIPROT,CHAT,P28329,protein,
+,IKBKB,FALSE,IKBKB,,UNIPROT,IKBKB,O14920,protein,
+black,PAK3,FALSE,PAK3,Neuron_Microtubule,UNIPROT,PAK3,O75914,protein,Neuron
+turquoise,PLD2,FALSE,PLD2,Astrocyte_Mitochondrial,UNIPROT,PLD2,O14939,protein,Astrocyte
+,SMURF1,FALSE,SMURF1,,UNIPROT,SMURF1,Q9HCE7,protein,
+black,SH3GL2,FALSE,SH3GL2,Neuron_Microtubule,UNIPROT,SH3GL2,Q99962,protein,Neuron
+black,UBQLN1,FALSE,UBQLN1,Neuron_Microtubule,UNIPROT,UBQLN1,Q9UMX0,protein,Neuron
+turquoise,CDH2,FALSE,CDH2,Astrocyte_Mitochondrial,UNIPROT,CDH2,P19022,protein,Astrocyte
+turquoise,STAT3,FALSE,STAT3,,UNIPROT,STAT3,P40763,protein,
+black,GNG2,FALSE,GNG2,Neuron_Microtubule,UNIPROT,GNG2,P59768,protein,Neuron
+turquoise,SLC7A11,FALSE,SLC7A11,Astrocyte_Mitochondrial,UNIPROT,SLC7A11,Q9UPY5,protein,Astrocyte
+black,CRMP1,FALSE,CRMP1,Neuron_Microtubule,UNIPROT,CRMP1,Q14194,protein,Neuron
+turquoise,MAPT,FALSE,MAPT,Neuron_Mitochondrial,UNIPROT,MAPT,P10636-2,protein,Neuron
+black,GSTP1,FALSE,GSTP1,Oligo_Microtutbule,UNIPROT,GSTP1,P09211,protein,Oligo
+black,SNAP25,FALSE,SNAP25,Neuron_Microtubule,UNIPROT,SNAP25,P60880,protein,Neuron
+,PRKCD,FALSE,PRKCD,,UNIPROT,PRKCD,Q05655,protein,
+turquoise,DBI,FALSE,DBI,Astrocyte_Mitochondrial,UNIPROT,DBI,P07108,protein,Astrocyte
+black,GRB2,FALSE,GRB2,Micro_Microtubule,UNIPROT,GRB2,P62993,protein,Micro
+black,MAPK10,FALSE,MAPK10,,UNIPROT,MAPK10,P53779,protein,
+black,NCK2,FALSE,NCK2,Neuron_Microtubule,UNIPROT,NCK2,O43639,protein,Neuron
+black,SULT4A1,FALSE,SULT4A1,Neuron_Microtubule,UNIPROT,SULT4A1,Q9BR01,protein,Neuron
+,NOTCH1,FALSE,NOTCH1,,UNIPROT,NOTCH1,P46531,protein,
+black,YWHAG,FALSE,YWHAG,Neuron_Microtubule,UNIPROT,YWHAG,P61981,protein,Neuron
+turquoise,TAGLN,FALSE,TAGLN,Astrocyte_Mitochondrial,UNIPROT,TAGLN,Q01995,protein,Astrocyte
+black,LMNA,FALSE,LMNA,Neuron_Microtubule,UNIPROT,LMNA,P02545,protein,Neuron
+,LRRK2,FALSE,LRRK2,,UNIPROT,LRRK2,Q5S007,protein,
+black,UBE2O,FALSE,UBE2O,Neuron_Microtubule,UNIPROT,UBE2O,Q9C0C9,protein,Neuron
+black,DLG4,FALSE,DLG4,,,DLG4,,protein,
+,SMAD6,FALSE,SMAD6,,UNIPROT,SMAD6,O43541,protein,
+turquoise,VCL,FALSE,VCL,Astrocyte_Mitochondrial,UNIPROT,VCL,P18206,protein,Astrocyte
+black,PTPRJ,FALSE,PTPRJ,Micro_Microtubule,UNIPROT,PTPRJ,Q12913,protein,Micro
+black,PDXP,FALSE,PDXP,Neuron_Microtubule,UNIPROT,PDXP,Q96GD0,protein,Neuron
+black,CFL1,FALSE,CFL1,,UNIPROT,CFL1,P23528,protein,
+black,PRKCB,FALSE,PRKCB,Oligo_Microtubule,UNIPROT,PRKCB,P05771,protein,Oligo
+black,GAP43,FALSE,GAP43,Neuron_Microtubule,UNIPROT,GAP43,P17677,protein,Neuron
+black,GNAZ,FALSE,GNAZ,Neuron_Microtubule,UNIPROT,GNAZ,P19086,protein,Neuron
+turquoise,ITPKB,FALSE,ITPKB,Astrocyte_Mitochondrial,UNIPROT,ITPKB,P27987,protein,Astrocyte
+black,STXBP1,FALSE,STXBP1,Neuron_Microtubule,UNIPROT,STXBP1,P61764,protein,Neuron
+grey,GRM5,FALSE,GRM5,Astro_null,UNIPROT,GRM5,P41594,protein,Astro
+black,UCHL1,FALSE,UCHL1,Neuron_Microtubule,UNIPROT,UCHL1,P09936,protein,Neuron
+,UBC,FALSE,UBC,,UNIPROT,UBC,P0CG48,protein,
+turquoise,MAP2,FALSE,MAP2,Astrocyte_Mitochondrial,UNIPROT,MAP2,P11137,protein,Astrocyte
+black,SYN1,FALSE,SYN1,Neuron_Microtubule,UNIPROT,SYN1,P17600,protein,Neuron
+black,SYN2,FALSE,SYN2,Neuron_Microtubule,UNIPROT,SYN2,Q92777,protein,Neuron
+black,MAP4,FALSE,MAP4,Astro_Microtubule,UNIPROT,MAP4,P27816,protein,Astro
+turquoise,MYO6,FALSE,MYO6,Astrocyte_Mitochondrial,UNIPROT,MYO6,Q9UM54,protein,Astrocyte
+turquoise,SLC9A3R1,FALSE,SLC9A3R1,Astrocyte_Mitochondrial,UNIPROT,SLC9A3R1,O14745,protein,Astrocyte
+turquoise,CTNND2,FALSE,CTNND2,Astrocyte_Mitochondrial,UNIPROT,CTNND2,Q9UQB3,protein,Astrocyte
+turquoise,ITGA6,FALSE,ITGA6,Astrocyte_Mitochondrial,UNIPROT,ITGA6,P23229,protein,Astrocyte
+green,CFH,FALSE,CFH,Micro_null,UNIPROT,CFH,P08603,protein,Micro
+black,C3,FALSE,C3,Neuron_Microtubule,UNIPROT,C3,P01024,protein,Neuron
+,GDNF,FALSE,GDNF,,UNIPROT,GDNF,P39905,protein,
+black,NRN1,FALSE,NRN1,Neuron_Microtubule,UNIPROT,NRN1,Q9NPD7,protein,Neuron
+turquoise,CLU,FALSE,CLU,Astrocyte_Mitochondrial,UNIPROT,CLU,P10909,protein,Astrocyte
+grey,NEFL,FALSE,NEFL,Oligo_null,UNIPROT,NEFL,P07196,protein,Oligo
+turquoise,ITGA2,FALSE,ITGA2,Astrocyte_Mitochondrial,UNIPROT,ITGA2,P17301,protein,Astrocyte
+turquoise,TNC,FALSE,TNC,Astrocyte_Mitochondrial,UNIPROT,TNC,P24821,protein,Astrocyte
+turquoise,MAOB,FALSE,MAOB,Astrocyte_Mitochondrial,UNIPROT,MAOB,P27338,protein,Astrocyte
+,SP1,FALSE,SP1,,UNIPROT,SP1,P08047,protein,
+,CEBPB,FALSE,CEBPB,,UNIPROT,CEBPB,P17676,protein,
+turquoise,CSRP1,FALSE,CSRP1,Astrocyte_Mitochondrial,UNIPROT,CSRP1,P21291,protein,Astrocyte
+,HMGA1,FALSE,HMGA1,,UNIPROT,HMGA1,P17096,protein,
+black,SLC2A3,FALSE,SLC2A3,Neuron_Microtubule,UNIPROT,SLC2A3,P11169,protein,Neuron
+black,RAB3A,FALSE,RAB3A,Neuron_Microtubule,UNIPROT,RAB3A,P20336,protein,Neuron
+turquoise,SNTB1,FALSE,SNTB1,Astrocyte_Mitochondrial,UNIPROT,SNTB1,Q13884,protein,Astrocyte
+turquoise,NQO1,FALSE,NQO1,Astrocyte_Mitochondrial,UNIPROT,NQO1,P15559,protein,Astrocyte
+grey,P2RY12,FALSE,P2RY12,Micro_null,UNIPROT,P2RY12,Q9H244,protein,Micro
+black,EEF1A2,FALSE,EEF1A2,Neuron_Microtubule,UNIPROT,EEF1A2,Q05639,protein,Neuron
+turquoise,MFGE8,FALSE,MFGE8,Astrocyte_Mitochondrial,UNIPROT,MFGE8,Q08431,protein,Astrocyte
+black,DNAJC6,FALSE,DNAJC6,Neuron_Microtubule,UNIPROT,DNAJC6,O75061,protein,Neuron
+turquoise,HSPA8,FALSE,HSPA8,,UNIPROT,HSPA8,P11142,protein,
+,TYSND1,FALSE,TYSND1,,UNIPROT,TYSND1,Q2T9J0,protein,
+turquoise,SCP2,FALSE,SCP2,Astrocyte_Mitochondrial,UNIPROT,SCP2,P22307,protein,Astrocyte
+turquoise,ACOX1,FALSE,ACOX1,Astrocyte_Mitochondrial,UNIPROT,ACOX1,Q15067,protein,Astrocyte
+,SIRT5,FALSE,SIRT5,,UNIPROT,SIRT5,Q9NXA8,protein,
+,PPARG,FALSE,PPARG,,UNIPROT,PPARG,P37231,protein,
+turquoise,ACADM,FALSE,ACADM,Astrocyte_Mitochondrial,UNIPROT,ACADM,P11310,protein,Astrocyte
+,ATP8B1,FALSE,ATP8B1,,UNIPROT,ATP8B1,O43520,protein,
+black,ATP2B2,FALSE,ATP2B2,Neuron_Microtubule,UNIPROT,ATP2B2,Q01814,protein,Neuron
+,ADRB2,FALSE,ADRB2,,UNIPROT,ADRB2,P07550,protein,
+turquoise,FLNC,FALSE,FLNC,Astrocyte_Mitochondrial,UNIPROT,FLNC,Q14315,protein,Astrocyte
+black,ATP2B1,FALSE,ATP2B1,Neuron_Microtubule,UNIPROT,ATP2B1,P20020,protein,Neuron
+black,KIF5C,FALSE,KIF5C,Neuron_Microtubule,UNIPROT,KIF5C,O60282,protein,Neuron
+turquoise,SLC1A3,FALSE,SLC1A3,Astrocyte_Mitochondrial,UNIPROT,SLC1A3,P43003,protein,Astrocyte
+,NMDA,FALSE,NMDA,,SIGNOR,NMDA,SIGNOR-PF56,proteinfamily,proteinfamily
+,MGluR,FALSE,MGluR,,SIGNOR,MGluR,SIGNOR-PF55,proteinfamily,proteinfamily
+,ERK1/2,FALSE,ERK1/2,,SIGNOR,ERK1/2,SIGNOR-PF1,proteinfamily,proteinfamily
+,Fatty acid,FALSE,Fatty acid,,SIGNOR,Fatty acid,SIGNOR-ST19,stimulus,stimulus
+,ROS,FALSE,ROS,,SIGNOR,ROS,SIGNOR-ST2,stimulus,stimulus
+,ER stress,FALSE,ER stress,,SIGNOR,ER stress,SIGNOR-ST9,stimulus,stimulus
